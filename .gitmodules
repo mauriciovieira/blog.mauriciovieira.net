@@ -1,0 +1,3 @@
+[submodule ".themes/salvador"]
+	path = .themes/salvador
+	url = git://github.com/mauriciovieira/salvador.git
