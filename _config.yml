@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://blog.mauriciovieira.net
-title: Mauricio's Blog
+title: Some thoughts
 subtitle: A blogging framework for hackers.
 author: Mauricio Vieira
 simple_search: https://www.google.com/search
-description:
+description: Thoughts and wonderings by Mauricio Vieira.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
