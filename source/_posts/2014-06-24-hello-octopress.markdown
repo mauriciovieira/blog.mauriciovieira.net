@@ -8,5 +8,5 @@ categories:
 - octopress
 ---
 
-Finally I am trying out [Octopres](http://octopress.org). I just _made_ a [theme](https://github.com/mauriciovieira/salvador) based on [other theme](https://github.com/octothemes/venice). My nerd stuff and notes are on the way.
+Finally I am trying out [Octopress](http://octopress.org). I just _made_ a [theme](https://github.com/mauriciovieira/salvador) based on [other theme](https://github.com/octothemes/venice). My nerd stuff and notes are on the way.
 
